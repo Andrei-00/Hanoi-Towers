@@ -1,0 +1,35 @@
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\Raluca\scoala\Online\12A\Proiecte elevi\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Andrei\Desktop\Turnuri HANOI\Turnuri HANOI\Hanoi_Proiect V2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\ytpen\Desktop\atestat\atestat\Hanoi_Proiect\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
